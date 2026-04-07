@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>App that enables users to check out loaner equipment.</short_description>
         <source>x_cdltd_loaner_r_0</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000002748</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,16 +32,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-06 13:50:07</sys_created_on>
         <sys_id>56cb8c5274c003107f449045ca11f5f0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-06 13:50:09</sys_updated_on>
+        <sys_updated_on>2026-04-07 17:59:03</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=56cb8c5274c003107f449045ca11f5f0"/>
     <sys_attachment action="INSERT_OR_UPDATE">
